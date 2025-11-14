@@ -1,0 +1,2 @@
+maxgram==0.1.4
+requests==2.32.5
